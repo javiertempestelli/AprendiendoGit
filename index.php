@@ -1,6 +1,5 @@
 <?php
 
-echo "Hola con git"
-echo "Hola Papurri"
-
+echo "Este fichero se va a subir a GitHub"
+echo "Genial!!"
 ?>
